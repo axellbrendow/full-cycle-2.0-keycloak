@@ -1,4 +1,4 @@
-# full-cycle-2.0-hexagonal-architecture
+# full-cycle-2.0-keycloak
 
 Files I produced during the Keycloak / OAuth2 / OpenID Connect classes of my [Microservices Full Cycle 2.0 course](https://drive.google.com/file/d/1MdN-qK_8Pfg6YI3TSfSa5_2-FHmqGxEP/view?usp=sharing).
 
